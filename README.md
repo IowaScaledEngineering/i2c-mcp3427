@@ -27,6 +27,7 @@ The I2C-MCP3427 can be configured for any of 8 possible I2C addresses by adjusti
 JP0L, JP0H, JP1L, and JP1H.  In the following chart, '-' means solder jumper left open, 'X' means solder jumper open.
 
 | JP1L | JP1H | JP0L | JP0H | 7-bit I2C Address |
+|------|------|------|------|-------------------|
 |  -   |  -   |  -   |  -   | 0x68              |
 |  -   |  -   |  X   |  -   | 0x69              |
 |  -   |  X   |  X   |  -   | 0x6A              |
