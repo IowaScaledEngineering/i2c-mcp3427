@@ -1,0 +1,6 @@
+schematics test-mcp3427.sch
+output-name ../pcb/test-mcp3427
+skip-m4
+elements-dir ../../ise-footprints
+
+
